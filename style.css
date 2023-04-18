@@ -1,0 +1,20 @@
+body{
+    background-color:cadetblue;
+}
+.container{
+    display: flex;
+}
+img{
+    width: 350px;
+    height: 550px;
+    padding: 10px;
+}
+h1{
+    text-align:center ;
+}
+p{
+    text-align: center;
+}
+main{
+    margin: 50px auto;
+}
